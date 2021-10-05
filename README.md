@@ -4,4 +4,4 @@ My main interests are Web and Software Development, Machine Learning and Data Sc
 
 Currently learning ReactJS ⚛️
 
-Feel free to check out some of my personal proyects and university assigments
+Feel free to check out some of my personal proyects and university assignments
